@@ -23,4 +23,4 @@ If you like Yew Styles Trunk Template, help me supporting the project:
 
 ## License
 
-Yew Styles Trunk Template is MIT licensed. See [license](LICENSE)
+Yew Styles Trunk Template is MIT licensed. See [license](LICENSE.md)
