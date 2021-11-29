@@ -1,0 +1,8 @@
+[build]
+target = "index.html"
+dist = "dist"
+public_url = "/"
+
+[tools]
+sass = "1.43.5"
+wasm_bindgen = "0.2.78"

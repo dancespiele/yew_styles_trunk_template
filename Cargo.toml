@@ -1,0 +1,13 @@
+[package]
+name = "yew_styles_trunk_template"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+console_error_panic_hook = "0.1.6"
+wasm-bindgen = "0.2.78"
+yew = { version="0.18", features = ["toml", "yaml", "msgpack", "cbor", "web_sys"]}
+yew-router = { version = "0.15", features = ["web_sys"]}
+web-sys = "0.3"
+yew_styles = { version="0.11", features = ["navbar"]}
+stylist = "0.9"
