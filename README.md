@@ -12,7 +12,7 @@ Template to start an app using [Yew Styles framework](https://yewstyles.spielrs.
 
 * `src/assets` : images, icon and other assets are here
 * `src/styles` : here are the `Yew Styles` css files and `main.sass`. **Note**: Only use `main.sass` or create new one in order to write your own styles
-* `src/pages` : each component page represen a route
+* `src/pages` : each component page represent a route
 * `src/app.rs` : it is where the router is set and the common elements are added for the whole application
 * `src/main.rs` : here call the yew instance in order to run the app
 
