@@ -33,7 +33,7 @@ impl Component for Home {
                 </Item>
                 <Item layouts=vec!(ItemLayout::ItXs(12))>
                     <ul>
-                        <li><a href="https://yew.rs" target="_blank">{"yew.rs"}</a>{" : rustwasm frontent framwork"}</li>
+                        <li><a href="https://yew.rs" target="_blank">{"yew.rs"}</a>{" : rustwasm frontend framwork"}</li>
                         <li><a href="https://github.com/spielrs/yew_styles" target="_blank">
                             {"yew_styles"}</a>{" : styles framework for yew"}</li>
                         <li><a href="https://parceljs.org/" target="_blank">
